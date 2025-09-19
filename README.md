@@ -15,4 +15,3 @@ The project demonstrates modern front-end practices such as semantic structure, 
 
 ---
 
-## 📂 Project Structure
